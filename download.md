@@ -9,7 +9,7 @@
 ![](/images/beian/beian1/注销材料.docx)  
   
 **核验单、授权书（非个人使用）**  
-![](/images/beian/beian1/北京市单位备案材料.rar)  
+![](/images/北京市单位备案材料.rar)  
 ![](/images/beian/beian1/河南省单位备案材料.rar)  
 ![](/images/beian/beian1/湖北省单位备案材料.rar)  
 ![](/images/beian/beian1/四川省单位备案材料.rar)  
