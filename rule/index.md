@@ -1,4 +1,4 @@
-{{indexmenu_n>0}}
+{{indexmenu_n>6}}
 
 # 各省管局规则
 
