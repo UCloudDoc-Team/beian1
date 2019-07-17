@@ -1,4 +1,4 @@
-{{indexmenu_n>0}}
+{{indexmenu_n>1}}
 
 # 初审阶段相关问题
 
