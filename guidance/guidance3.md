@@ -13,11 +13,11 @@
 
 **操作步骤**
 1.安卓系统手机通过（微信、浏览器等）扫描下方的二维码或通过应用商店下载上海管局APP进行拍照（APP名称为：shbeian）。  
-![](/images/beian/beian1/problem/1.png)  
+![](/images/problem/上海APP1.png)  
 2\. 打开备案 APP，并单击【立即核验】。如下图所示：  
-![](/images/beian/beian1/problem/2.png)  
+![](/images/problem/上海APP2.png)  
 3\. 在“手机短信验证”界面，输入在UCloud备案系统中填写的网站负责人手机号码，并进行短信验证。如下图所示：  
-![](/images/beian/beian1/problem/3.png)  
+![](/images/problem/上海APP3.png)  
 注意：
 
 ``` 
@@ -31,28 +31,26 @@
 ```
 
 4\. 在“证件核验”界面，单击【证件核验】。如下图所示：  
-![](/images/beian/beian1/problem/4.png)  
+![](/images/problem/上海APP4.png)  
 5\. 根据界面提示，依次拍摄身份证正面和身份证反面。如下图所示：  
-![](/images/beian/beian1/problem/5.png)  
+![](/images/problem/上海APP5.png)  
 6\. 单击图片进行预览，检查拍摄的照片是否符合要求。  
 若不符合要求，单击【重新拍照】，重新拍摄。
 
     若符合要求，单击【下一步】，进入持证核验步骤。
 
 7\. 在“持证核验”界面，单击【持证核验】，拍摄手持身份证的正面照。如下有所示：  
-![](/images/beian/beian1/problem/6.png)  
+![](/images/problem/上海APP6.png)  
 8\. 单击图片进行预览，检查五官与证件信息是否清晰。  
 若图片不清晰，单击【重新拍照】，重新拍摄。
 
     若图片清晰，确认信息无误，并单击【确认上报】。
 
 9\. 请复制或记录核验完成后自动生成的图片验证码。如下图所示：  
-![](/images/beian/beian1/problem/7.png)  
+![](/images/problem/上海APP7.png)  
 10\. 将已复制或记录的图片验证码填写到备案系统中，单击【验证】。  
-![](/images/beian/beian1/guidance/未输入.png)  
+![](/images/problem/上海APP8.png)  
 11\. 验证成功，上传其他核验材料，确认无误点击【确认提交】。UCloud将在1个工作日内完成复审。  
-![](/images/beian/beian1/guidance/成功.png)  
+![](/images/problem/上海APP9.png)  
 12\. 验证失败，照片审核未通过并被UCloud退回，需登陆APP重新拍摄并获取新图片验证码进行核验。  
-图片验证码只可验证一次，如验证失败需重新获取图片验证码。 ![](/beian/beian1/guidance/失败.png)
-
-{{indexmenu_n>0}}
+图片验证码只可验证一次，如验证失败需重新获取图片验证码。 ![](/images/problem/上海APP10.png)
