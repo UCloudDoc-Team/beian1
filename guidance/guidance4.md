@@ -23,10 +23,10 @@
 [UCloud备案系统](https://console.ucloud.cn/icp)，进入备案管理页面。  
 2、点击 已备案完成列表 找到待注销的主体信息。  
 3、点击 注销主体 按钮。  
-![](/images/beian/beian1/guidance/注销1.png)
+![](/images/guidance/注销1.png)
 
 4、核对主体信息、填写备案密码，确认后点击提交。  
-![](/images/beian/beian1/guidance/注销主体2.png)
+![](/images/guidance/注销主体2.png)
 
 5、等待管局审核，审核一般3 - 5个工作日。注意查看 我的备案进度 订单状态。  
 6、若订单状态为管局审核不通过，请查看退回原因后删除订单重新申请注销。
