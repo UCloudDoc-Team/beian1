@@ -65,9 +65,12 @@ UCloud会在收到您的复审材料后一个工作日内进行复审，复审�
 ### 七、短信核验
 
 接入商提交申请后，管局系统自动发送短信验证码到主体负责人及网站负责人手机验证主办者身份，验证通过进入管局审核阶段，验证失败则退回接入商。参考如下：  
-![](/images/guidance/备案流程详细指导_短信1.png)![](/images/guidance/备案流程详细指导_短信2.png)  
+![](/images/guidance/备案流程详细指导_短信1.png)
+![](/images/guidance/备案流程详细指导_短信2.png)  
+
 根据提示填写相应信息完成验证  
-![](/images/guidance/备案流程详细指导_短信3.png)![](/images/guidance/备案流程详细指导_短信4.png)
+![](/images/guidance/备案流程详细指导_短信3.png)
+![](/images/guidance/备案流程详细指导_短信4.png)
 
 ### 八、 管局审核
 
