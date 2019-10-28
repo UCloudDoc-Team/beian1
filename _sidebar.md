@@ -18,7 +18,6 @@
         * [未备案网站管理相关问题](beian/beian1/problem/problem5)
         * [公安备案相关问题](beian/beian1/problem/problem6)
         * [备案限制说明](beian/beian1/problem/problem8)
-        * [备案授权码使用说明](beian/beian1/problem/problem9)
     * 重要通知
         * [ICP备案编号规则](beian/beian1/notice/notice14)
         * [工信部备案系统域名变更通知](beian/beian1/notice/notice13)
