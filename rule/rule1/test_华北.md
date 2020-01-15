@@ -1,6 +1,8 @@
 # 华北各省管局规则：
+
 <!-- tabs:start -->
-#### 北京备案规则_收起/展开版
+
+#### ** 北京备案规则 **
 <details>
   <summary> 单位 </summary>
 
@@ -34,7 +36,8 @@
 
 </details>
 
-#### 河北备案规则_收起/展开版
+#### ** 河北备案规则 **
+
 <details>
   <summary> 单位 </summary>
 
