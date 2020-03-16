@@ -10,6 +10,7 @@
     * [注销网站](beian/beian1/guidance/guidance5)
     * [取消接入](beian/beian1/guidance/guidance6)
     * [变更备案](beian/beian1/guidance/guidance7)
+    * [变更接入](beian/beian1/guidance/guidance8)
 * 常见问题
     * [初审阶段相关问题](beian/beian1/problem/problem2)
     * [复审阶段相关问题](beian/beian1/problem/problem1)
