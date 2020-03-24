@@ -24,11 +24,11 @@
 
 ### 5、如何注销主体？
 
-详见[注销主体](https://docs.ucloud.cn/beian/beian1/guidance/guidance4)
+详见[注销主体](https://docs.ucloud.cn/beian1/guidance/guidance4)
 
 ### 6、如何注销网站？
 
-详见[注销网站](https://docs.ucloud.cn/beian/beian1/guidance/guidance5)
+详见[注销网站](https://docs.ucloud.cn/beian1/guidance/guidance5)
 
 ### 7、已在其他接入商处取得备案号的网站，是否需要做接入？
 
