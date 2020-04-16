@@ -22,13 +22,15 @@
 
 **公安备案相关表格样例**
 
-[《国际联网备案用户信息网络使用情况表》样例](http://static.ucloud.cn/2c5cabda56de31b60ef0de10308c1ae2.pdf)  
+[《国际联网备案用户信息网络使用情况表》样例](https://static.ucloud.cn/2f85b3e79c964bebb9c800d06b84f51f.pdf)  
 
-[《网络信息安全保护小组名单》样例](http://static.ucloud.cn/791539807ba60927efffa2382c5da596.pdf)  
+[《计算机信息网络国际联网单位备案表》样例](https://static.ucloud.cn/bc1420a4084a4a8b9b680aab78bfa62f.pdf) 
 
-[《计算机信息网络国际联网单位备案表》样例](http://static.ucloud.cn/8f63c7d865caae372d081bff536c0dbe.pdf)
+[《所属网站基本情况表》样例](https://static.ucloud.cn/760b06d6af684283b9194403e4b16a66.pdf)
 
-[《测试国际联网备案用户信息网络使用情况表》样例](/images/notice/《国际联网备案用户信息网络使用情况表》样例.doc) 
+[《网络信息安全保护小组名单》样例](https://static.ucloud.cn/06ca2995677f4c36b2e00987fe3ad52f.pdf)  
+
+
 
 
 
