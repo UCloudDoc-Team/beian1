@@ -28,5 +28,7 @@
 
 [《计算机信息网络国际联网单位备案表》样例](http://static.ucloud.cn/8f63c7d865caae372d081bff536c0dbe.pdf)
 
+[《测试国际联网备案用户信息网络使用情况表》样例](/images/notice/《国际联网备案用户信息网络使用情况表》样例.doc) 
+
 
 
