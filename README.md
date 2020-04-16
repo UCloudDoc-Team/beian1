@@ -81,7 +81,7 @@
         * [西藏管局规则](/beian1/rule/rule7/xizang)
         * [贵州管局规则](/beian1/rule/rule7/guizhou)
         * [重庆管局规则](/beian1/rule/rule7/chongqing)
-* [下载](/images/test123.pdf)
+* [下载](/beian1/123test.pdf)
 
 
 
