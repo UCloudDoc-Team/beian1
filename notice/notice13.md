@@ -5,7 +5,7 @@
 尊敬的UCloud用户：  
 您好！  
 按照国务院办公厅要求，“工业和信息化部ICP/IP地址/域名信息备案管理系统”地址调整为“beian.miit.gov.cn"，域名“miitbeian.gov.cn"、“miibeian.gov.cn"自2019年4月25日起停止使用。  
-工信部备案公共查询链接更改为beian.miit.gov.cn/publish/query/indexFirst.action，建议尽快更换已备案网站备案号的链接地址，以免影响后续备案进度。  
+工信部备案公共查询链接更改为“beian.miit.gov.cn/publish/query/indexFirst.action”，建议尽快更换已备案网站备案号的链接地址，以免影响后续备案进度。  
 附：“工业和信息化部ICP/IP地址/域名信息备案管理系统”各省系统地址调整情况  
 北京市 bj.beian.miit.gov.cn  
 上海市 sh.beian.miit.gov.cn  
