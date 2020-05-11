@@ -16,34 +16,22 @@ Ciao!
 
 
 
-<!-- tabs:start -->
 
-#### tab1
 
-Hello!
 
-#### tab2
-
-Hello!
-
-#### tab3
-
-Hello!
-
-<!-- tabs:end -->
 
 
 <!-- tabs:start -->
 
-** tab1 **
+# ** tab1 **
 
 Hello!
 
-** tab2 **
+# ** tab2 **
 
 Hello!
 
-** tab3 **
+# ** tab3 **
 
 Hello!
 
