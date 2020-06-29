@@ -38,6 +38,7 @@
     * [已备案域名转接入备案通知](/beian1/notice/notice5)
     * [暂停旧备案系统使用通知](/beian1/notice/notice6)
     * [网站备案信息清理整治的通知](/beian1/notice/notice8)
+    * [备案系统更新通知](/beian1/notice/notice17)
 * 法律法规
     * [《非经营性互联网信息服务备案管理办法》](/beian1/regulations/regulations1)
     * [《计算机信息网络国际联网安全保护管理办法》](/beian1/regulations/regulations2)
