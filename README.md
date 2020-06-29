@@ -20,6 +20,7 @@
     * [公安备案相关问题](/beian1/problem/problem6)
     * [备案限制说明](/beian1/problem/problem8)
 * 重要通知
+    * [备案系统更新通知](/beian1/notice/notice17)
     * [关于已备案网站需悬挂备案号的通知](/beian1/notice/notice15)
     * [湖北地区非经营性备案年审的通知](/beian1/notice/notice16)
     * [ICP备案编号规则](/beian1/notice/notice14)
