@@ -7,31 +7,13 @@
 UCloud按照  
 《关于开展“工业和信息化部ICP/IP地址/域名信息备案管理系统”短信息核验试点工作的通知》（工信管函〔2017〕2322号）、  
 《关于扩大“工信和信息化部ICP/IP地址/域名信息备案管理系统”短信息核验试点范围的通知》（工信管函〔2018〕1590号）  
-要求，在UCloud备案平台提交备案申请后，试点省市地区的用户还需完成短信核验，备案申请才能进入管局审核。  
+要求，在UCloud备案平台提交备案申请后，试点省份需完成短信核验，备案申请才能进入管局审核。  
 
-## 对应试点省份短信校验和短信重发页面：  
+2020年8月17日起，全国所有省份，均需完成短信核验，备案申请才能进入管局审核阶段。
 
-[天津](http://tj.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[甘肃](http://gs.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[宁夏](http://nx.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[海南](http://hi.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[新疆](http://xj.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[青海](http://qh.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[浙江](http://zj.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、  
-[四川](http://sc.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[福建](http://fj.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[陕西](http://sn.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[重庆](http://cq.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[广西](http://gx.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[云南](http://yn.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[山东](http://sd.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、  
-[河南](http://ha.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[安徽](http://ah.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[湖南](http://hn.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[山西](http://sx.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[黑龙江](http://hl.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[内蒙古](http://nm.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)、
-[湖北](http://hb.beian.miit.gov.cn/state/outPortal/messageAuthentication.action)  
+## 全部省份短信校验和短信重发页面：  
+
+https://beian.miit.gov.cn/#/Integrated/ComplaintA
 
 ## 验证码有效时长  
 
@@ -53,9 +35,11 @@ UCloud按照
 
 ## 核验业务开始时间
 
-2017年12月18日起，天津、甘肃、西藏、宁夏、海南、新疆、青海被列为试点省份。  
-2018年9月10日起，浙江、四川、福建、陕西、重庆、广西、云南被列为试点省份。  
-2018年9月24日起，山东、河南、安徽、湖南、山西、黑龙江、内蒙古、湖北被列为试点省份。  
+1. 2017年12月18日起，天津、甘肃、西藏、宁夏、海南、新疆、青海被列为试点省份。  
+2. 2018年9月10日起，浙江、四川、福建、陕西、重庆、广西、云南被列为试点省份。  
+
+3. 2018年9月24日起，山东、河南、安徽、湖南、山西、黑龙江、内蒙古、湖北被列为试点省份。
+4. 2020年8月16日起，非试点省份（即全部省份均已实行短信核验）
 
 
 ## 如何进行短信验证
