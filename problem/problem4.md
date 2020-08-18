@@ -18,7 +18,7 @@
 
 ## 4、已取得备案号的网站，是否需要开启访问？
 
-已备案网站需开启访问，并在网站下方标注版权所有及备案号，并将备案号链接至工信部网站，工信部网站为：[http://www.beian.miit.gov.cn](http://www.beian.miit.gov.cn/)。 
+已备案网站需开启访问，并在网站下方标注版权所有及备案号，并将备案号链接至工信部网站，工信部网站为：https://beian.miit.gov.cn。 
 
 ## 5、如何注销主体？
 
@@ -51,7 +51,7 @@
 ## 10、工信部备案信息公共查询地址？
 
 工信部备案信息查询支持网站域名、证件号码、主办单位名称等信息的查询，输入任意一项即可查询您的备案记录。  
-[立即查询](http://www.beian.miit.gov.cn/publish/query/indexFirst.action)
+[立即查询](https://beian.miit.gov.cn)
 
 
 ![](/images/problem/公共查询.png)
