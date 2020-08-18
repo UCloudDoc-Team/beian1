@@ -11,7 +11,7 @@ UCloud按照
 
 2020年8月17日起，全国所有省份，均需完成短信核验，备案申请才能进入管局审核阶段。
 
-## 全部省份短信校验和短信重发页面：  
+## 短信校验和短信重发页面：  
 
 https://beian.miit.gov.cn/#/Integrated/ComplaintA
 
@@ -48,11 +48,10 @@ https://beian.miit.gov.cn/#/Integrated/ComplaintA
 ![](/images/guidance/短信校验指导1.png)  
 参考如下：  
 ![](/images/guidance/短信校验指导2.png)  
-登陆[工信部短信核验页面](https://beian.miit.gov.cn/#/Integrated/ComplaintA)，在右下角找到“备案短信核验”模块，单击进入核验页面。  
- ![](https://static.ucloud.cn/eea92764449949479180c633d7d83f53.png)
-输入您收到的“验证码”、“手机号码”、“个人证件号码后6位”并完成拼图验证点击提交。  
-![](/images/guidance/短信校验指导4.png)  
-如您填写的信息准确无误，系统提示核验完成。如果您的备案订单中，还有其他需验证的手机号，请继续完成。  
+登陆[工信部短信核验页面](https://beian.miit.gov.cn/#/Integrated/ComplaintA)，点击“短信核验”标题栏，选择“短信核验”模块，输入您收到的“验证码”、“手机号码”、“个人证件号码后6位”，点击提交。   
+ ![](https://static.ucloud.cn/513e432780a3411c90430300cefa07c2.png)
+
+如您填写的信息准确无误，系统提示核验完成。如果您的备案订单中，还有其他需验证的手机号，请继续完成。 
 ![](/images/guidance/短信校验指导5.png)  
 如您的信息输入错误，或输入的三条信息（验证码、手机号码、证件号码）不匹配，则系统找不到对应的订单。系统提示找不到记录，请核实信息后，重新输入。  
 ![](/images/guidance/短信校验指导6.png)  
@@ -78,12 +77,10 @@ https://beian.miit.gov.cn/#/Integrated/ComplaintA
 
     
 
-- **处理方法 1**：您可以登录相应省管局的ICP/IP
-  地址/域名信息备案管理系统的界面，点击“备案短信核验”，输入“联系方式”、“个人证件号码后6位”等信息，验证通过则立刻重发短信验证码。
+- **处理方法 1**：您可以登录[工信部ICP/IP
+  地址/域名信息备案管理系统](beian.miit.gov.cn)的界面，点击“短信核验”标题栏，选择“短信重发”模块，输入“手机号码”、“个人证件号码后6位”，点击提交。
 
-![](/images/guidance/短信校验指导8.png)
-
-![](/images/guidance/短信校验指导9.png)  
+![](https://static.ucloud.cn/aca3f59364a34c7e8a7fbeb30583457e.png)
 
 - **处理方法 2**：若短信发送后您没有及时验证，则工信部系统会于第二天中午 12 点会向用户重新发送短信验证码。  
 
