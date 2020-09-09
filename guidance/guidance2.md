@@ -46,7 +46,7 @@ https://beian.miit.gov.cn/#/Integrated/ComplaintA
 
 1. 您将收到的短信模板，参考如下：  
    ![](https://static.ucloud.cn/97dbe7d5521947b3929c3bca21e9426f.png)  
-2. 点击[短信链接](beian.miit.gov.cn)或通过电脑访问[ICP/IP地址/域名信息备案管理系统](beian.miit.gov.cn)，点击“短信核验”标题栏，选择“短信核验”模块，输入您收到的“验证码”、“手机号码”、“个人证件号码后6位”，点击提交。   
+2. 点击“短信中核验链接”或通过电脑访问[ICP/IP地址/域名信息备案管理系统](https://beian.miit.gov.cn)，点击“短信核验”标题栏，选择“短信核验”模块，输入您收到的“验证码”、“手机号码”、“个人证件号码后6位”，点击提交。   
     ![](https://static.ucloud.cn/513e432780a3411c90430300cefa07c2.png)
 
 * 如您填写的信息准确无误，系统提示核验完成。如果您的备案订单中，还有其他需验证的手机号，请继续完成。 
@@ -71,7 +71,7 @@ https://beian.miit.gov.cn/#/Integrated/ComplaintA
 
     
 
-- **处理方法 1**：您可以登录[ICP/IP地址/域名信息备案管理系统](beian.miit.gov.cn)的界面，点击“短信核验”标题栏，选择“短信重发”模块，输入“手机号码”、“个人证件号码后6位”，点击提交。
+- **处理方法 1**：您可以登录[ICP/IP地址/域名信息备案管理系统](https://beian.miit.gov.cn)的界面，点击“短信核验”标题栏，选择“短信重发”模块，输入“手机号码”、“个人证件号码后6位”，点击提交。
 
 ![](https://static.ucloud.cn/aca3f59364a34c7e8a7fbeb30583457e.png)
 
