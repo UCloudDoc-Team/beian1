@@ -20,6 +20,7 @@
     * [公安备案相关问题](/beian1/problem/problem6)
     * [备案限制说明](/beian1/problem/problem8)
 * 重要通知
+    * [青海管局关于2020年度网站备案信息核查短信的通知](/beian1/notice/notice19)
     * [关于备案系统升级的公告](/beian1/notice/notice17)
     * [关于已备案网站需悬挂备案号的通知](/beian1/notice/notice15)
     * [湖北地区非经营性备案年审的通知](/beian1/notice/notice16)
