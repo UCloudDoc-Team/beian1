@@ -17,7 +17,7 @@
 
 下方截图为短信核实的具体内容。
 
-![](http://172.27.226.133:1081/files/edc8cdd2c42a8886a376104d7e7fc58f)
+![](https://static.ucloud.cn/edc8cdd2c42a8886a376104d7e7fc58f.png)
 
 
 
