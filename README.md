@@ -32,7 +32,6 @@
     * [关于2019年春节期间暂停备案审核和邮寄的通知](/beian1/notice/notice11)
     * [北京核验点暂停备案拍照通知](/beian1/notice/notice7)
     * [北京管局重要通知](/beian1/notice/notice4)
-    * [备案幕布照片要求](/beian1/notice/notice10)
     * [备案系统暂停通知](/beian1/notice/notice12)
     * [已备案域名转接入备案通知](/beian1/notice/notice5)
     * [暂停旧备案系统使用通知](/beian1/notice/notice6)
