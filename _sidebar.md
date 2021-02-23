@@ -18,6 +18,7 @@
     * [未备案网站管理相关问题](/beian1/problem/problem5)
     * [公安备案相关问题](/beian1/problem/problem6)
     * [备案限制说明](/beian1/problem/problem8)
+    * [情况说明承诺书模板](/beian1/problem/problem9)
 * 重要通知
     * [青海管局关于2020年度网站备案信息核查短信的通知](/beian1/notice/notice19)
     * [电子化备案系统发布上线](/beian1/notice/notice17)
