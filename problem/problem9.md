@@ -58,7 +58,7 @@
 
 ## 七、外籍法定代表人授权书
 
-[外籍法人授权书](https://static.ucloud.cn/211294cf220e6977e71dea758ee9c21c.doc)（辽宁）
+[外籍法定代表人授权书](https://static.ucloud.cn/211294cf220e6977e71dea758ee9c21c.doc)（辽宁）
 
 
 
