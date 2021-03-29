@@ -2,28 +2,63 @@
 
 
 
-#### 一、不涉及电子商务情况说明书
-
-[不涉及电商说明书（河南）](https://static.ucloud.cn/6ab47286d98de344ac83514ac9cbf03b.docx)  
-
-[不涉及电商说明书（湖北）](https://static.ucloud.cn/c36f60cbbafc5c5cb7f594ffc87e468f.doc)  
-
-[不涉及电商说明书（四川）](https://static.ucloud.cn/335caaa90b56ccb91552c5e70f0601e0.doc)  
+**注意：仅标注省份支持相关承诺或情况说明模板**
 
 
 
-#### 二、不涉及互联网金融情况说明书
+#### 一、不从事前置审批经营承诺函
 
-[不涉及互联网金融说明书（四川）](https://static.ucloud.cn/7ef4ccd6fd6a91fca3559f506f56ec80.doc)  
+[不从事前置审批经营承诺函](https://static.ucloud.cn/8a4400eb14bc4fe3c2c4976586d3cc0d.docx)（陕西）
 
+[不从事前置审批经营承诺函](https://static.ucloud.cn/117385693ca6f89e4a480db91100f94b.doc)（江西）
 
-
-#### 三、不涉及药品医疗器械情况说明书
-
-[不涉及药品医疗器械情况说明书（四川）](https://static.ucloud.cn/3c874d9af6a05b11d8a2ef494b8872b3.doc)  
+[不从事前置审批经营承诺函](https://static.ucloud.cn/ed3d8a3c2992bed0515fc526b61f6b00.docx)（黑龙江）
 
 
 
-#### 四、外籍法人授权书
+#### 二、不从事互联网金融经营承诺书
 
-[外籍法人授权书（山东、河北、辽宁）](https://static.ucloud.cn/211294cf220e6977e71dea758ee9c21c.doc)  
+[不从事互联网金融经营承诺书](https://static.ucloud.cn/cf4fadda12a73644ec7384d13e43dc9c.docx)（广东）
+
+[不从事互联网金融经营承诺书](https://static.ucloud.cn/a7e2ed69ec1e87f1aa203aceb2fa32ac.docx)（浙江）
+
+[不从事互联网金融经营承诺书](https://static.ucloud.cn/d738295c04a6afd35ce101c241940cfc.doc)（四川）
+
+[不从事互联网金融经营承诺书](https://static.ucloud.cn/bb6fdba1fa15d93cbd4cc81ad9184b27.docx)（江西）
+
+
+
+#### 三、不涉及电子商务情况说明书
+
+[不涉及电商说明书](https://static.ucloud.cn/6ab47286d98de344ac83514ac9cbf03b.docx)（河南）
+
+[不涉及电商说明书](https://static.ucloud.cn/c36f60cbbafc5c5cb7f594ffc87e468f.doc)（湖北、四川）
+
+
+
+#### 四、不涉及药品及医疗器械经营承诺书
+
+[不涉及药品及医疗器械经营承诺书](https://static.ucloud.cn/b1f7b3edf4caab72e29e6a1a39147770.doc)（四川）
+
+[不涉及药品及医疗器械经营承诺书](https://static.ucloud.cn/8e90c44690138fffb38b8f7de1b524a4.docx)（江西）
+
+
+
+#### 五、不涉及文化类经营承诺书
+
+[不涉及文化类经营承诺书](https://static.ucloud.cn/245d69c72f84fff20a0d52664735f966.docx)（江西）
+
+
+
+#### 六、主体负责人非法定代表人授权书
+
+[主体负责人非法定代表人授权书](https://static.ucloud.cn/40eb69641fca9b4964fb98c54f74bc89.doc)（四川）
+
+
+
+#### 七、外籍法定代表人授权书
+
+[外籍法人授权书](https://static.ucloud.cn/211294cf220e6977e71dea758ee9c21c.doc)（辽宁）
+
+
+
