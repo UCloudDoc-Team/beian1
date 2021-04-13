@@ -32,7 +32,11 @@
 
 [不涉及电商说明书](https://static.ucloud.cn/6ab47286d98de344ac83514ac9cbf03b.docx)（河南）
 
+[涉及商贸备案承诺书](https://static.ucloud.cn/1bd0067298a5d7a77723bf883f995709.doc)（河南）
+
 [不涉及电商说明书](https://static.ucloud.cn/c36f60cbbafc5c5cb7f594ffc87e468f.doc)（湖北、四川）
+
+
 
 
 

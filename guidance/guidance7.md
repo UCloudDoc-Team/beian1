@@ -19,7 +19,7 @@
 
 ## 操作流程
 
-1. 请登录[UCloud备案系统](https://console.ucloud.cn/icp)，进入备案管理页面。
+1. 请登录[UCloud备案系统](https://console.ucloud.cn/icp/)，进入备案管理页面。
    
 2. 点击 已备案完成列表 找到对应主体信息。
 

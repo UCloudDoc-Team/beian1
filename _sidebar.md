@@ -11,6 +11,7 @@
     * [取消接入](/beian1/guidance/guidance6)
     * [变更备案](/beian1/guidance/guidance7)
     * [变更接入](/beian1/guidance/guidance8)
+    * [新增接入](/beian1/guidance/guidance9)
 * 常见问题
     * [UCloud审核阶段相关问题](/beian1/problem/problem2)
     * [管局审核阶段相关问题](/beian1/problem/problem3)
