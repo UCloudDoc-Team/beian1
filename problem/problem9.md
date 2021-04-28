@@ -24,8 +24,6 @@
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/d738295c04a6afd35ce101c241940cfc.doc)（四川）
 
-[不从事互联网金融经营承诺书](https://static.ucloud.cn/bb6fdba1fa15d93cbd4cc81ad9184b27.docx)（江西）
-
 
 
 ## 三、不涉及电子商务情况说明书
