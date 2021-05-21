@@ -12,6 +12,8 @@
 
 [不从事前置审批经营承诺函](https://static.ucloud.cn/117385693ca6f89e4a480db91100f94b.doc)（江西）
 
+[不从事前置审批经营承诺函](https://static.ucloud.cn/b9d92e83a03004ef9a7885fddee80b19.doc)（河南）
+
 [不从事前置审批经营承诺函](https://static.ucloud.cn/ed3d8a3c2992bed0515fc526b61f6b00.docx)（黑龙江）
 
 
