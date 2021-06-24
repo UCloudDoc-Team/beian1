@@ -22,7 +22,7 @@
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/cf4fadda12a73644ec7384d13e43dc9c.docx)（广东）
 
-[不从事互联网金融经营承诺书](https://static.ucloud.cn/a7e2ed69ec1e87f1aa203aceb2fa32ac.docx)（浙江）
+[不从事互联网金融经营承诺书](https://static.ucloud.cn/8d680dcd0af0d9980a3afb8748e8d5f7.docx)（浙江）
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/d738295c04a6afd35ce101c241940cfc.doc)（四川）
 
