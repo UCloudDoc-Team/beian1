@@ -68,3 +68,9 @@
 
 [湖南省网站方案建设书](https://static.ucloud.cn/5de51bc477622a9ae3ea183322492f45.doc)（湖南）
 
+
+
+## 九、不涉及校外培训情况说明承诺书
+
+[不涉及校外培训情况说明承诺书](https://static.ucloud.cn/322bc083e8d932eb863df0f98a59681b.docx)（允许使用省份请联系备案咨询）
+
