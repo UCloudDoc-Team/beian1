@@ -72,7 +72,7 @@
 
 ## 九、不涉及校外培训情况说明承诺书
 
-[不涉及校外培训情况说明承诺书](https://static.ucloud.cn/9ed45608a8fd11614836923f74a32e8a.docx)（广东、青海、上海、山西、河南）
+[不涉及校外培训情况说明承诺书](https://static.ucloud.cn/9ed45608a8fd11614836923f74a32e8a.docx)（上海、广东、河南、山西、青海）
 
 [不涉及校外培训情况说明承诺书](https://static.ucloud.cn/953ac58ed3538688ea46295c0a13c9b5.docx)（北京）
 
