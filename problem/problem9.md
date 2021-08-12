@@ -74,11 +74,13 @@
 
 
 
-## 九、不涉及校外培训情况说明承诺书
+## 九、不涉及校外培训前置审批的承诺书
 
-[不涉及校外培训情况说明承诺书](https://static.ucloud.cn/9ed45608a8fd11614836923f74a32e8a.docx)（上海、广东、河南、山西、青海、山东）
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9f4c79f1ffaf14705ddf0f1912972992.docx)（福建、青海、上海、山西、河南、山东、甘肃、陕西、宁夏）
 
-[不涉及校外培训情况说明承诺书](https://static.ucloud.cn/5a69f4403ebb2b6d2ebbf293ba021cd4.docx)（北京）
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/d633e5ec01da651c5efec30fae11f150.docx)（北京）
 
-[不涉及校外培训情况说明承诺书](https://static.ucloud.cn/ed5a4e8dc03c7532ff33efc1a9fc1bd0.docx)（浙江）
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/e07d6f3b6e1e1f0acdcb5062c71a0157.docx)（广东）
+
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9d8629414597d463de8b3435278d2f7f.docx)（浙江）
 
