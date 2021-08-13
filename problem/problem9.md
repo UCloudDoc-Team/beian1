@@ -24,7 +24,7 @@
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/8d680dcd0af0d9980a3afb8748e8d5f7.docx)（浙江）
 
-[不从事互联网金融经营承诺书](https://static.ucloud.cn/d738295c04a6afd35ce101c241940cfc.doc)（四川）
+[不从事互联网金融经营承诺书](https://static.ucloud.cn/d738295c04a6afd35ce101c241940cfc.doc)（四川、上海）
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/0321b6b22e4ebfb5bfe274534bb767b2.docx)（黑龙江）
 
@@ -76,11 +76,13 @@
 
 ## 九、不涉及校外培训前置审批的承诺书
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9f4c79f1ffaf14705ddf0f1912972992.docx)（福建、青海、上海、山西、河南、山东、甘肃、陕西、宁夏）
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9f4c79f1ffaf14705ddf0f1912972992.docx)（福建、青海、上海、山西、河南、山东、甘肃、陕西、宁夏、广西）
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/d633e5ec01da651c5efec30fae11f150.docx)（北京）
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/e07d6f3b6e1e1f0acdcb5062c71a0157.docx)（广东）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9d8629414597d463de8b3435278d2f7f.docx)（浙江）
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/5522d30250032ccdbe4eeea19830ade6.docx)（浙江、湖南）
+
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/ded76b914cc544a608cc5f1ecbfcea70.docx)（四川）
 
