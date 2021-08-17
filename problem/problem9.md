@@ -6,15 +6,13 @@
 
 
 
-## 一、不从事前置审批经营承诺函
+## 一、不从事前置审批经营承诺书
 
-[不从事前置审批经营承诺函](https://static.ucloud.cn/8a4400eb14bc4fe3c2c4976586d3cc0d.docx)（陕西）
+[不从事前置审批经营承诺书](https://static.ucloud.cn/8a4400eb14bc4fe3c2c4976586d3cc0d.docx)（陕西）
 
-[不从事前置审批经营承诺函](https://static.ucloud.cn/117385693ca6f89e4a480db91100f94b.doc)（江西）
+[不从事前置审批经营承诺书](https://static.ucloud.cn/b9d92e83a03004ef9a7885fddee80b19.doc)（河南）
 
-[不从事前置审批经营承诺函](https://static.ucloud.cn/b9d92e83a03004ef9a7885fddee80b19.doc)（河南）
-
-[不从事前置审批经营承诺函](https://static.ucloud.cn/ed3d8a3c2992bed0515fc526b61f6b00.docx)（黑龙江）
+[不从事前置审批经营承诺书](https://static.ucloud.cn/ed3d8a3c2992bed0515fc526b61f6b00.docx)（黑龙江）
 
 
 
@@ -32,13 +30,15 @@
 
 
 
-## 三、不涉及电子商务情况说明书
+## 三、不涉及经营性互联网信息服务（互联网销售、电子商务类型）承诺书
 
-[不涉及电商说明书](https://static.ucloud.cn/6ab47286d98de344ac83514ac9cbf03b.docx)（河南）
+[不涉及电子商务承诺书](https://static.ucloud.cn/c36f60cbbafc5c5cb7f594ffc87e468f.doc)（湖北、四川）
 
-[涉及商贸备案承诺书](https://static.ucloud.cn/1bd0067298a5d7a77723bf883f995709.doc)（河南）
+[不涉及电子商务承诺书](https://static.ucloud.cn/6ab47286d98de344ac83514ac9cbf03b.docx)（河南）
 
-[不涉及电商说明书](https://static.ucloud.cn/c36f60cbbafc5c5cb7f594ffc87e468f.doc)（湖北、四川）
+[经营范围涉及商贸备案承诺书](https://static.ucloud.cn/1bd0067298a5d7a77723bf883f995709.doc)（河南）
+
+[不从事经营性互联网信息服务承诺书](https://static.ucloud.cn/6b968b995e4803c51a47f6f4a0adf997.doc)（江西）
 
 
 
@@ -85,4 +85,12 @@
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/5522d30250032ccdbe4eeea19830ade6.docx)（浙江、湖南）
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/ded76b914cc544a608cc5f1ecbfcea70.docx)（四川）
+
+
+
+## 十、备案者承诺书模版（广东）
+
+[备案者承诺书模版（广东）](https://static.ucloud.cn/04f968821a7720a380c33fcaf63ff336.docx)（湖南）
+
+
 
