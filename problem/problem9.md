@@ -88,9 +88,9 @@
 
 
 
-## 十、备案者承诺书模版（广东）
+## 十、备案者承诺书模版
 
-[备案者承诺书模版（广东）](https://static.ucloud.cn/04f968821a7720a380c33fcaf63ff336.docx)（湖南）
+[备案者承诺书模版](https://static.ucloud.cn/04f968821a7720a380c33fcaf63ff336.docx)（广东）
 
 
 
