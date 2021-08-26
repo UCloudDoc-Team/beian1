@@ -82,7 +82,9 @@
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/e07d6f3b6e1e1f0acdcb5062c71a0157.docx)（广东）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/5522d30250032ccdbe4eeea19830ade6.docx)（浙江、湖南）
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9e4232a0ede0cde1759004af94cbf957.docx)（湖南）
+
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9fe619005bd7a86a18f865271e809c16.docx)（浙江）
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/ded76b914cc544a608cc5f1ecbfcea70.docx)（四川）
 
