@@ -80,7 +80,7 @@
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/d633e5ec01da651c5efec30fae11f150.docx)（北京）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/e07d6f3b6e1e1f0acdcb5062c71a0157.docx)（广东）
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/b2a28af6e83bd3558ddfbe194f9b6031.docx)（广东）
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9e4232a0ede0cde1759004af94cbf957.docx)（湖南）
 
