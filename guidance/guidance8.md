@@ -6,8 +6,6 @@
 
 ## 注意
 
-1. 江苏地区备案，无法进行变更接入操作，如需操作请提交[备案变更流程](https://docs.ucloud.cn/beian1/guidance/guidance7)。
-
 2. 若需变更主体信息或网站信息，请提交[备案变更流程。](https://docs.ucloud.cn/beian1/guidance/guidance7)
 
 ## 操作流程
