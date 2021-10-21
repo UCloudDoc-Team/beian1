@@ -11,6 +11,8 @@
     * [注销网站](/beian1/guidance/guidance5)
     * [取消接入](/beian1/guidance/guidance6)
     * [变更备案](/beian1/guidance/guidance7)
+    * [变更主体](/beian1/guidance/guidance10)
+    * [变更网站](/beian1/guidance/guidance11)
     * [变更接入](/beian1/guidance/guidance8)
     * [新增接入](/beian1/guidance/guidance9)
 * 常见问题
