@@ -56,9 +56,11 @@
 
 
 
-## 六、主体负责人非法定代表人授权书
+## 六、网站负责人授权书
 
-[主体负责人非法定代表人授权书](https://static.ucloud.cn/40eb69641fca9b4964fb98c54f74bc89.doc)（四川）
+[网站负责人非法定代表人授权书](https://static.ucloud.cn/86e054747cb343e3f143bdb7a180796e.doc)（通用）
+
+[网站负责人非法定代表人授权书](https://static.ucloud.cn/756ffdf8d1ad702083d879026ae1db96.docx)（上海2021版）
 
 
 
