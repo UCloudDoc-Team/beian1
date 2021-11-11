@@ -78,7 +78,7 @@
 
 ## 九、不涉及校外培训前置审批的承诺书
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9f4c79f1ffaf14705ddf0f1912972992.docx)（青海、上海、山西、河南、山东、陕西、宁夏、广西、安徽、江苏）
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9f4c79f1ffaf14705ddf0f1912972992.docx)（青海、上海、山西、河南、山东、陕西、宁夏、广西、安徽、江苏、辽宁）
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/d633e5ec01da651c5efec30fae11f150.docx)（北京）
 
