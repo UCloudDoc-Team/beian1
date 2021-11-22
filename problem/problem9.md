@@ -8,31 +8,33 @@
 
 ## 一、不从事前置审批经营承诺书
 
+[不从事前置审批经营承诺书](https://static.ucloud.cn/ed3d8a3c2992bed0515fc526b61f6b00.docx)（通用）
+
 [不从事前置审批经营承诺书](https://static.ucloud.cn/8a4400eb14bc4fe3c2c4976586d3cc0d.docx)（陕西）
 
 [不从事前置审批经营承诺书](https://static.ucloud.cn/b9d92e83a03004ef9a7885fddee80b19.doc)（河南）
-
-[不从事前置审批经营承诺书](https://static.ucloud.cn/ed3d8a3c2992bed0515fc526b61f6b00.docx)（黑龙江）
 
 
 
 ## 二、不从事互联网金融经营承诺书
 
+[不从事互联网金融经营承诺书](https://static.ucloud.cn/d738295c04a6afd35ce101c241940cfc.doc)（通用）
+
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/cf4fadda12a73644ec7384d13e43dc9c.docx)（广东）
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/8d680dcd0af0d9980a3afb8748e8d5f7.docx)（浙江）
 
-[不从事互联网金融经营承诺书](https://static.ucloud.cn/d738295c04a6afd35ce101c241940cfc.doc)（四川、上海）
-
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/0321b6b22e4ebfb5bfe274534bb767b2.docx)（黑龙江）
 
+[不从事互联网金融经营承诺书](https://static.ucloud.cn/7ae16b0fc121c74cb4a86a791da5430a.docx)（江西）
 
+[不从事互联网金融经营承诺书](https://static.ucloud.cn/b49ae29c0b5c4fa2ab517f34b56a9fe9.docx)（内蒙古）
 
 
 
 ## 三、不涉及经营性互联网信息服务（互联网销售、电子商务类型）承诺书
 
-[不涉及电子商务承诺书](https://static.ucloud.cn/c36f60cbbafc5c5cb7f594ffc87e468f.doc)（湖北、四川）
+[不涉及电子商务承诺书](https://static.ucloud.cn/c36f60cbbafc5c5cb7f594ffc87e468f.doc)（通用）
 
 [不涉及电子商务承诺书](https://static.ucloud.cn/6ab47286d98de344ac83514ac9cbf03b.docx)（河南）
 
@@ -44,15 +46,15 @@
 
 ## 四、不涉及药品及医疗器械经营承诺书
 
-[不涉及药品及医疗器械经营承诺书](https://static.ucloud.cn/b1f7b3edf4caab72e29e6a1a39147770.doc)（四川）
+[不涉及药品及医疗器械经营承诺书](https://static.ucloud.cn/b39098b9e63f0c3fefb30ce87d44864f.docx)（通用）
 
-[不涉及药品及医疗器械经营承诺书](https://static.ucloud.cn/8e90c44690138fffb38b8f7de1b524a4.docx)（江西）
+[不涉及药品及医疗器械经营承诺书](https://static.ucloud.cn/011a323dd9444799cacc8eca8eed5f27.doc)（四川）
 
 
 
 ## 五、不涉及文化类经营承诺书
 
-[不涉及文化类经营承诺书](https://static.ucloud.cn/245d69c72f84fff20a0d52664735f966.docx)（江西）
+[不涉及文化类经营承诺书](https://static.ucloud.cn/245d69c72f84fff20a0d52664735f966.docx)（通用）
 
 
 
@@ -66,7 +68,7 @@
 
 ## 七、外籍法定代表人授权书
 
-[外籍法定代表人授权书](https://static.ucloud.cn/211294cf220e6977e71dea758ee9c21c.doc)（辽宁）
+[外籍法定代表人授权书](https://static.ucloud.cn/211294cf220e6977e71dea758ee9c21c.doc)（通用）
 
 
 
@@ -78,7 +80,7 @@
 
 ## 九、不涉及校外培训前置审批的承诺书
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9f4c79f1ffaf14705ddf0f1912972992.docx)（青海、上海、山西、河南、山东、陕西、宁夏、广西、安徽、江苏、辽宁）
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9f4c79f1ffaf14705ddf0f1912972992.docx)（通用）
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/d633e5ec01da651c5efec30fae11f150.docx)（北京）
 
