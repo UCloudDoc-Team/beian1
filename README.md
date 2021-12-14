@@ -15,6 +15,7 @@
     * [变更网站](/beian1/guidance/guidance11)
     * [变更接入](/beian1/guidance/guidance8)
     * [新增接入](/beian1/guidance/guidance9)
+    * [特定备案类型功能置灰说明](/beian1/guidance/guidance12)
 * 常见问题
     * [未备案或未接入网站被拦截相关问题](/beian1/problem/problem5)
     * [UCloud审核阶段相关问题](/beian1/problem/problem2)
