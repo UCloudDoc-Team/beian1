@@ -58,7 +58,13 @@
 
 
 
-## 六、网站负责人授权书
+## 六、不涉及互联网出版类经营承诺书
+
+[不涉及互联网出版类经营承诺书](https://static.ucloud.cn/d2aa56a1dde9a6aae13f82224477bbf2.doc)（四川）
+
+
+
+## 七、网站负责人授权书
 
 [网站负责人非法定代表人授权书](https://static.ucloud.cn/86e054747cb343e3f143bdb7a180796e.doc)（通用）
 
@@ -66,19 +72,19 @@
 
 
 
-## 七、外籍法定代表人授权书
+## 八、外籍法定代表人授权书
 
 [外籍法定代表人授权书](https://static.ucloud.cn/211294cf220e6977e71dea758ee9c21c.doc)（通用）
 
 
 
-## 八、湖南省网站方案建设书
+## 九、湖南省网站方案建设书
 
 [湖南省网站方案建设书](https://static.ucloud.cn/5de51bc477622a9ae3ea183322492f45.doc)（湖南）
 
 
 
-## 九、不涉及校外培训前置审批的承诺书
+## 十、不涉及校外培训前置审批的承诺书
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9f4c79f1ffaf14705ddf0f1912972992.docx)（通用）
 
@@ -92,9 +98,11 @@
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/ded76b914cc544a608cc5f1ecbfcea70.docx)（四川、重庆）
 
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/54b5675bb15fd58028e8ebb55092b079.docx)（江西）
 
 
-## 十、备案者承诺书模版
+
+## 十一、备案者承诺书模版
 
 [备案者承诺书模版](https://static.ucloud.cn/04f968821a7720a380c33fcaf63ff336.docx)（广东）
 
