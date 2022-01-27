@@ -94,6 +94,8 @@
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/bf2e809d43bc21eacc7fdb8a597a91ff.docx)（湖南、甘肃）
 
+[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/2f3cb80c991e763327d1ef613a0f45de.doc)（湖北）
+
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9fe619005bd7a86a18f865271e809c16.docx)（浙江）
 
 [不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/ded76b914cc544a608cc5f1ecbfcea70.docx)（四川、重庆）
