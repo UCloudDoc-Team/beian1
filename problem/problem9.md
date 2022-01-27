@@ -78,9 +78,13 @@
 
 
 
-## 九、湖南省网站方案建设书
+## 九、网站方案建设书（已备案网站数量超过限定）
 
-[湖南省网站方案建设书](https://static.ucloud.cn/5de51bc477622a9ae3ea183322492f45.doc)（湖南）
+[湖南网站方案建设书](https://static.ucloud.cn/5de51bc477622a9ae3ea183322492f45.doc)（湖南，已备案超过1个网站时需要）
+
+[宁夏网站方案建设书](https://static.ucloud.cn/b7e8220b0e81cac971e2a728b729bee4.docx)（宁夏，已备案超过5个网站时需要）
+
+[重庆网站方案建设书](https://static.ucloud.cn/6ae5aecd5c18d6bd59de3ecad37ed177.docx)（重庆，已备案超过35个网站时需要）
 
 
 
