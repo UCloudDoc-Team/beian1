@@ -25,6 +25,7 @@
     * [备案限制说明](/beian1/problem/problem8)
     * [情况说明承诺书模板](/beian1/problem/problem9)
 * 重要通知
+    * [关于增加可备案网站数量限制说明](/beian1/notice/notice20)
     * [青海管局关于2020年度网站备案信息核查短信的通知](/beian1/notice/notice19)
     * [电子化备案系统发布上线](/beian1/notice/notice17)
     * [关于已备案网站需悬挂备案号的通知](/beian1/notice/notice15)
