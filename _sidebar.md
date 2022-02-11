@@ -27,7 +27,6 @@
 * 重要通知
     * [未接入备案限制访问公告](/beian1/notice/notice21)
     * [可备案网站数量限制公告](/beian1/notice/notice20)
-    * [青海管局关于2020年度网站备案信息核查短信的通知](/beian1/notice/notice19)
     * [电子化备案系统发布上线](/beian1/notice/notice17)
     * [关于已备案网站需悬挂备案号的通知](/beian1/notice/notice15)
     * [湖北地区非经营性备案年审的通知](/beian1/notice/notice16)
@@ -36,15 +35,7 @@
     * [网站备案域名核验的规则](/beian1/notice/notice9)
     * [关于规范互联网信息服务使用域名的通知](/beian1/notice/notice2)
     * [关于网站公安备案公告](/beian1/notice/notice1)
-    * [重庆管局最新备案规则通知](/beian1/notice/notice3)
-    * [关于2019年春节期间暂停备案审核和邮寄的通知](/beian1/notice/notice11)
-    * [北京核验点暂停备案拍照通知](/beian1/notice/notice7)
-    * [北京管局重要通知](/beian1/notice/notice4)
-    * [备案系统暂停通知](/beian1/notice/notice12)
     * [已备案域名转接入备案通知](/beian1/notice/notice5)
-    * [暂停旧备案系统使用通知](/beian1/notice/notice6)
-    * [网站备案信息清理整治的通知](/beian1/notice/notice8)
-    * [2020年上海市电信和互联网行业网络安全检查工作](/beian1/notice/notice18)
 * 法律法规
     * [《非经营性互联网信息服务备案管理办法》](/beian1/regulations/regulations1)
     * [《计算机信息网络国际联网安全保护管理办法》](/beian1/regulations/regulations2)
