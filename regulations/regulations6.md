@@ -12,7 +12,7 @@ UCloud优刻得（以下简称“我们”）在向您提供UCloud优刻得代�
 
 一、定义<br/>
 
-1.1.UCloud优刻得网站：指UCloud优刻得官网（域名为：[www.ucloud.cn](http://www.aliyun.com/)）。<br/>
+1.1.UCloud优刻得网站：指UCloud优刻得官网（域名为：[www.ucloud.cn](http://www.ucloud.cn/)）。<br/>
 
 1.2.UCloud优刻得：UCloud优刻得代备案服务的提供方（优刻得科技股份有限公司，以下简称：UCloud优刻得）。<br/>
 
