@@ -38,6 +38,8 @@
     * [已备案域名转接入备案通知](/beian1/notice/notice5)
 * UCloud优刻得备案相关协议与相关法律法规
     * [《UCloud优刻得代备案服务协议》](/beian1/regulations/regulations5)
+    * [《UCloud优刻得代备案服务信息收集及使用声明》](/beian1/regulations/regulations6)
+    * [《UCloud优刻得协助更改备案信息服务条款》](/beian1/regulations/regulations7)
     * [《非经营性互联网信息服务备案管理办法》](/beian1/regulations/regulations1)
     * [《计算机信息网络国际联网安全保护管理办法》](/beian1/regulations/regulations2)
     * [《中华人民共和国网络安全法》](/beian1/regulations/regulations3)
