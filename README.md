@@ -4,6 +4,7 @@
     * [为什么要做备案](/beian1/basics/knowledge)
     * [备案常用名词解释](/beian1/basics/knowledge1)
     * [前置审批](/beian1/basics/knowledge2)
+    
 * 备案流程指导
     * [备案流程详细指导](/beian1/guidance/guidance1)
     * [短信核验指导](/beian1/guidance/guidance2)
@@ -16,6 +17,7 @@
     * [变更接入](/beian1/guidance/guidance8)
     * [新增接入](/beian1/guidance/guidance9)
     * [特定备案类型功能置灰说明](/beian1/guidance/guidance12)
+    
 * 常见问题
     * [未备案或未接入网站被拦截相关问题](/beian1/problem/problem5)
     * [UCloud审核阶段相关问题](/beian1/problem/problem2)
@@ -24,6 +26,7 @@
     * [公安备案相关问题](/beian1/problem/problem6)
     * [备案限制说明](/beian1/problem/problem8)
     * [情况说明承诺书模板](/beian1/problem/problem9)
+    
 * 重要通知
     * [未接入备案限制访问公告](/beian1/notice/notice21)
     * [可备案网站数量限制公告](/beian1/notice/notice20)
@@ -36,12 +39,21 @@
     * [关于规范互联网信息服务使用域名的通知](/beian1/notice/notice2)
     * [关于网站公安备案公告](/beian1/notice/notice1)
     * [已备案域名转接入备案通知](/beian1/notice/notice5)
-* 法律法规
+    
+* UCloud优刻得备案相关协议与相关法律法规
+    
+    * [《UCloud优刻得代备案服务协议》](/beian1/regulations/regulations5)
+    
     * [《非经营性互联网信息服务备案管理办法》](/beian1/regulations/regulations1)
+    
     * [《计算机信息网络国际联网安全保护管理办法》](/beian1/regulations/regulations2)
+    
     * [《中华人民共和国网络安全法》](/beian1/regulations/regulations3)
+    
     * [《互联网信息服务管理办法》](/beian1/regulations/regulations4)
-    * [《备案需知》](/beian1/regulations/regulations5)
+    
+      
+    
 * 各省管局规则
     * 华北各省管局规则
         * [北京备案规则](/beian1/rule/rule1/beijing)
