@@ -56,6 +56,8 @@
 
 [不涉及文化类经营承诺书](https://www-s.ucloud.cn/2022/03/4e30cc10c8ecd0705e2cece21b04c8df_1648437768920.docx)（通用）
 
+[不涉及文化类经营承诺书](https://www-s.ucloud.cn/2022/04/d996ab5a810eedf375078e2ee14efc0c_1648895302597.docx)（四川）
+
 
 
 ## 六、不涉及互联网出版类经营承诺书
