@@ -94,21 +94,23 @@
 
 ## 十、不涉及校外培训前置审批的承诺书
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9f4c79f1ffaf14705ddf0f1912972992.docx)（通用）
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/889b716d227108b5c30f2b24dd6416f0_1650422905141.docx)（通用）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/d633e5ec01da651c5efec30fae11f150.docx)（北京）
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/b31fe67dcf48190da459a4ef7e7d6e5b_1650422830310.docx)（北京）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/b2a28af6e83bd3558ddfbe194f9b6031.docx)（广东）
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/bfd62fb03d98c6024e9100a711795165_1650422830314.docx)（广东）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/bf2e809d43bc21eacc7fdb8a597a91ff.docx)（湖南、甘肃）
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/3fde2ebe1c2b8ff779eb22bb10fd1278_1650422830319.docx)（湖南、甘肃）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/2f3cb80c991e763327d1ef613a0f45de.doc)（湖北）
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/cd97f4028230cdb3e5164ec0836264e0_1650422830318.doc)（湖北）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/9fe619005bd7a86a18f865271e809c16.docx)（浙江）
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/ca7f98a62db0dd314cff52e9a7ca8033_1650422905142.docx)（浙江）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/ded76b914cc544a608cc5f1ecbfcea70.docx)（四川、重庆）
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/ee614fc89da03aadc110a1a705fbec2b_1650422905141.docx)（四川、重庆）
 
-[不涉及校外培训前置审批的承诺书](https://static.ucloud.cn/54b5675bb15fd58028e8ebb55092b079.docx)（江西）
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/89d499f87c51803a522839c047415a61_1650422905140.docx)（江西）
+
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/e133b611eacdbe707bc91251e1ebf7c1_1650422905138.docx)（吉林）
 
 
 
