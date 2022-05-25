@@ -8,11 +8,13 @@
 
 ## 一、不从事前置审批经营承诺书
 
-[不从事前置审批经营承诺书](https://static.ucloud.cn/ed3d8a3c2992bed0515fc526b61f6b00.docx)（通用）
+[不从事前置审批经营承诺书](https://www-s.ucloud.cn/2022/05/c323d3f6cd13c790c767a8c940fc2a15_1653468176728.docx)（通用）
 
 [不从事前置审批经营承诺书](https://static.ucloud.cn/8a4400eb14bc4fe3c2c4976586d3cc0d.docx)（陕西）
 
 [不从事前置审批经营承诺书](https://static.ucloud.cn/b9d92e83a03004ef9a7885fddee80b19.doc)（河南）
+
+[不从事前置审批经营承诺书](https://www-s.ucloud.cn/2022/05/e6762f8e5d3d59fdae5d7bcfa6f32068_1653468176730.docx)（内蒙古）
 
 
 
@@ -28,7 +30,7 @@
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/7ae16b0fc121c74cb4a86a791da5430a.docx)（江西）
 
-[不从事互联网金融经营承诺书](https://static.ucloud.cn/b49ae29c0b5c4fa2ab517f34b56a9fe9.docx)（内蒙古）
+[不从事互联网金融经营承诺书](https://www-s.ucloud.cn/2022/05/d98b8870cf65e2628abeed927392224f_1653467732163.docx)（内蒙古）
 
 
 
@@ -113,6 +115,8 @@
 [不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/04/e133b611eacdbe707bc91251e1ebf7c1_1650422905138.docx)（吉林）
 
 [不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/05/743918d69b87495a826855badb41a946_1653015631926.docx)（黑龙江）
+
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/05/1a313190f1af0d4d6ef7a0cc44140d63_1653467820659.docx)（内蒙古）
 
 
 
