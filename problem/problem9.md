@@ -72,7 +72,7 @@
 
 [网站负责人非法定代表人授权书](https://static.ucloud.cn/86e054747cb343e3f143bdb7a180796e.doc)（通用）
 
-[网站负责人非法定代表人授权书](https://static.ucloud.cn/756ffdf8d1ad702083d879026ae1db96.docx)（上海2021版）
+[网站负责人非法定代表人授权书](https://www-s.ucloud.cn/2022/06/01019ca62d89c77004cba249f8fa65cd_1654738801026.docx)（上海2022版）
 
 
 
