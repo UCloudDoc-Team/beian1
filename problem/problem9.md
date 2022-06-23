@@ -30,7 +30,7 @@
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/7ae16b0fc121c74cb4a86a791da5430a.docx)（江西）
 
-[不从事互联网金融经营承诺书](https://www-s.ucloud.cn/2022/05/d98b8870cf65e2628abeed927392224f_1653467732163.docx)（内蒙古）
+[不从事互联网金融经营承诺书](https://www-s.ucloud.cn/2022/06/d9ed370fc91f7b9a636fb8ceb66cc71a_1655954804948.docx)（内蒙古）
 
 
 
