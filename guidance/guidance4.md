@@ -26,7 +26,7 @@
 3. 点击 注销主体 按钮。 
    ![](https://static.ucloud.cn/0f4c2cf46c37be76ed6d564d6a232595.png)
 4. 核对主体信息、勾选注销理由，最后点击 提交 按钮。  
-   ![](https://static.ucloud.cn/ab78807d3165d80d51058800409897c6.png)
+   ![](https://www-s.ucloud.cn/2022/09/4e058fa83cd6cc33fe236ab14780b803_1664421342920.png)
 5. 进行[短信核验](https://docs.ucloud.cn/beian1/guidance/guidance2)。
 6. 等待管局审核，审核一般3 - 5个工作日。注意查看 我的备案进度 订单状态。  
 7. 若订单状态为管局审核不通过，请查看退回原因后删除订单重新申请注销，如有疑问请联系[在线咨询](https://spt.ucloud.cn/30002)。
