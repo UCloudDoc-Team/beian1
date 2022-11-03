@@ -29,7 +29,7 @@
     * [账号间已备案完成数据迁移流程](/beian1/problem/problem1)
     
 * 重要通知
-    * [未接入备案限制访问公告](/beian1/notice/notice21)
+    * [已备案未接入备案限制访问公告](/beian1/notice/notice21)
     * [可备案网站数量限制公告](/beian1/notice/notice20)
     * [电子化备案系统发布上线](/beian1/notice/notice17)
     * [关于已备案网站需悬挂备案号的通知](/beian1/notice/notice15)
