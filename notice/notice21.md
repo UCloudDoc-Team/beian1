@@ -26,7 +26,7 @@
 
  <br/>
 
-方案1. [登录UCloud备案系统](https://console.ucloud.cn/icp)提交“新增接入”备案订单； <br/>
+方案1. [登录UCloud备案系统](https://console.ucloud.cn/icp)提交“新增接入”备案订单到UCloud审核中，方可临时恢复使用，订单长时间未通过管局审核，域名仍将被限制访问； <br/>
 
 方案2. 将域名解析至UCloud非中国内地云产品；<br/>
 
