@@ -72,9 +72,7 @@
 
 [不涉及文化类经营承诺书](https://www-s.ucloud.cn/2022/03/4e30cc10c8ecd0705e2cece21b04c8df_1648437768920.docx)（通用）
 
-[不涉及文化类经营承诺书](https://www-s.ucloud.cn/2023/02/f68ed3757d0e8a197aca94b7a27b431e_1677211203143.docx)（四川）
-
-[不从事前置审批经营承诺书](https://www-s.ucloud.cn/2023/02/ae68270cf732f9fc0357706ca016eb80_1677212596977.docx)（重庆）
+[不涉及文化类经营承诺书](https://www-s.ucloud.cn/2023/02/f68ed3757d0e8a197aca94b7a27b431e_1677211203143.docx)（四川、重庆）
 
 
 
