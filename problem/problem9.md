@@ -114,7 +114,7 @@
 
 [不涉及电子商务承诺书](https://www-s.ucloud.cn/2022/05/f1c9c610e36dac50a58d211259c6e05a_1652325952283.doc)（通用）
 
-[不涉及电子商务承诺书](https://www-s.ucloud.cn/2023/03/6d64d639f19dfaf9470dcdc380271c97_1678084146745.docx)（湖北）
+[不涉及电子商务承诺书](https://www-s.ucloud.cn/2023/03/bca5dc3afc1a7058d06d23bf7f935183_1678759036150.docx)（湖北）
 
 [不涉及电子商务承诺书](https://static.ucloud.cn/6ab47286d98de344ac83514ac9cbf03b.docx)（河南）
 
