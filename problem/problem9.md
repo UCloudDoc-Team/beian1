@@ -44,7 +44,7 @@
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/7ae16b0fc121c74cb4a86a791da5430a.docx)（江西）
 
-[不从事互联网金融经营承诺书](https://www-s.ucloud.cn/2023/04/7d92304c51075cf3f1e41a8e26f8e839_1681888325497.docx)（内蒙古）
+[不从事互联网金融经营承诺书](https://www-s.ucloud.cn/2023/04/7d92304c51075cf3f1e41a8e26f8e839_1681888590387.docx)（内蒙古）
 
 [不从事互联网金融经营承诺书](https://static.ucloud.cn/cf4fadda12a73644ec7384d13e43dc9c.docx)（广东，涉及金融关键词以及“小额贷款”、“融资”、“黄金交易”、“信托和消费金融”、“外汇”）
 
