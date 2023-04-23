@@ -30,7 +30,7 @@
 
 [不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2022/05/1a313190f1af0d4d6ef7a0cc44140d63_1653467820659.docx)（内蒙古）
 
-[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2023/04/2c99c6e026d15c51eb95fd8f8c1bb3b7_1681787203281.docx)（四川）
+[不涉及校外培训前置审批的承诺书](https://www-s.ucloud.cn/2023/04/3a64386f54e4f0aae0738cdeef7dddee_1682227898719.docx)（四川）
 
 
 
@@ -52,7 +52,7 @@
 
 [不从事互联网金融经营承诺书](https://www-s.ucloud.cn/2023/02/8f28012eee14b5bcb6810ad93de0a503_1677211203187.doc)（重庆）
 
-[不从事互联网金融经营承诺书](https://www-s.ucloud.cn/2023/04/2c99c6e026d15c51eb95fd8f8c1bb3b7_1681787203281.docx)（四川）
+[不从事互联网金融经营承诺书](https://www-s.ucloud.cn/2023/04/8b54b4429f0473c057f2b30bb790ac0d_1682228499593.docx)（四川）
 
 
 
@@ -60,7 +60,7 @@
 
 [不涉及药品及医疗器械经营承诺书](https://static.ucloud.cn/b39098b9e63f0c3fefb30ce87d44864f.docx)（通用）
 
-[不涉及药品及医疗器械经营承诺书](https://www-s.ucloud.cn/2023/04/2c99c6e026d15c51eb95fd8f8c1bb3b7_1681787203281.docx)（四川）
+[不涉及药品及医疗器械经营承诺书](https://www-s.ucloud.cn/2023/04/95a496b5edd554a85a985041976566c7_1682226529509.docx)（广东、四川）
 
 [不涉及药品及医疗器械经营承诺书](https://www-s.ucloud.cn/2023/02/77ab3856a59148323bfec3418aaf42e2_1677214442593.docx)（重庆、浙江）
 
@@ -72,7 +72,7 @@
 
 [不涉及文化类经营承诺书](https://www-s.ucloud.cn/2023/02/f68ed3757d0e8a197aca94b7a27b431e_1677211203143.docx)（重庆、浙江）
 
-[不涉及文化类经营承诺书](https://www-s.ucloud.cn/2023/04/2c99c6e026d15c51eb95fd8f8c1bb3b7_1681787203281.docx)（四川）
+[不涉及文化类经营承诺书](https://www-s.ucloud.cn/2023/04/761cb1cd4f2748ac64c84b145791caf6_1682228562504.docx)（四川）
 
 
 
@@ -80,7 +80,9 @@
 
 [不涉及互联网出版类经营承诺书](https://www-s.ucloud.cn/2023/02/861146facf1ba750100e8d1edbf06817_1677211203137.docx)（重庆、浙江）
 
-[不涉及互联网出版类经营、游戏承诺书](https://www-s.ucloud.cn/2023/04/2c99c6e026d15c51eb95fd8f8c1bb3b7_1681787203281.docx)（四川）
+[不涉及互联网出版类经营承诺书](https://www-s.ucloud.cn/2023/04/afb5d11879f6237911799d45faf46ba5_1682228666739.docx)（四川）
+
+[不涉及互联网游戏类经营承诺书](https://www-s.ucloud.cn/2023/04/1b2cae5c4c8cc35897f95c2e966f8e47_1682228666740.docx)（四川）
 
 
 
@@ -92,7 +94,7 @@
 
 [不涉及广播电影电视节目类经营承诺书](https://www-s.ucloud.cn/2023/02/c4ce91f0223100e45ef89d162eb54d78_1677212879784.docx)（江西）
 
-[不涉及网络视听类经营承诺书](https://www-s.ucloud.cn/2023/04/2c99c6e026d15c51eb95fd8f8c1bb3b7_1681787203281.docx)（四川）
+[不涉及广播电影电视节目类经营承诺书](https://www-s.ucloud.cn/2023/04/2f54c7b3acfb580290c67813d1c62667_1682228746023.docx)（四川）
 
 
 
@@ -100,7 +102,7 @@
 
 [不涉及新闻类前置审批承诺书](https://www-s.ucloud.cn/2023/04/30e79b795813ed083cd81f0c35ab9cdf_1680604474279.docx)（通用）
 
-[不涉及新闻类前置审批承诺书](https://www-s.ucloud.cn/2023/04/2c99c6e026d15c51eb95fd8f8c1bb3b7_1681787203281.docx)（四川）
+[不涉及新闻类前置审批承诺书](https://www-s.ucloud.cn/2023/04/ee201de919482c5a1a16efe78d2ea2de_1682228811303.docx)（四川）
 
 
 
