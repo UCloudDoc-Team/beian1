@@ -141,7 +141,7 @@
 
 ## 十一、外籍法定代表人授权书
 
-[外籍法定代表人授权书](https://static.ucloud.cn/211294cf220e6977e71dea758ee9c21c.doc)（通用）
+[外籍法定代表人授权书](https://www-s.ucloud.cn/2023/08/c7f8e9e8022c7fb800466acc7571779d_1691376474879.doc)（通用）
 
 
 
