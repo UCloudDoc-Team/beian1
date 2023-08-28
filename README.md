@@ -20,11 +20,11 @@
     * [特定备案类型功能置灰说明](/beian1/guidance/guidance12)
     
 * ICP备案服务
-    
+  
     * [ICP备案迁移服务](/beian1/icp-service/icpqianyi)
     
 * 常见问题
-    
+  
     * [未备案或未接入网站被拦截相关问题](/beian1/problem/problem5)
     * [UCloud审核阶段相关问题](/beian1/problem/problem2)
     * [管局审核阶段相关问题](/beian1/problem/problem3)
@@ -35,6 +35,7 @@
     * [账号间已备案完成数据迁移流程](/beian1/problem/problem1)
     
 * 重要通知
+    * [关于UCloud备案管理系统升级通知](/beian1/notice/notice23)
     * [关于定期清理无效备案订单的公告](/beian1/notice/notice22)
     * [已备案未接入备案限制访问公告](/beian1/notice/notice21)
     * [可备案网站数量限制公告](/beian1/notice/notice20)

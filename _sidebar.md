@@ -28,6 +28,7 @@
     * [情况说明承诺书模板](/beian1/problem/problem9)
     * [账号间已备案完成数据迁移流程](/beian1/problem/problem1)
 * 重要通知
+    * [关于UCloud备案管理系统升级通知](/beian1/notice/notice23)
     * [关于定期清理无效备案订单的公告](/beian1/notice/notice22)
     * [已备案未接入备案限制访问公告](/beian1/notice/notice21)
     * [可备案网站数量限制公告](/beian1/notice/notice20)
