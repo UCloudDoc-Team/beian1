@@ -34,7 +34,7 @@ UCloud备案管理系统APP备案功能将于2023年9月初正式上线，相关
 
 <br/>
 
-Ucloud备案管理系统：https://console.ucloud.cn/icp/
+UCloud备案管理系统：https://console.ucloud.cn/icp/
 
 <br/>
 
