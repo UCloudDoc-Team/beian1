@@ -42,6 +42,14 @@ Ucloud备案管理系统：https://console.ucloud.cn/icp/
 
 <br/>
 
+[《工业和信息化部关于开展移动互联网应用程序备案工作的通知》](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2023/art_920db564162e4312916a01bed6540ad8.html)
+
+[《工业和信息化部关于开展移动互联网应用程序备案工作的通知》解读](https://wap.miit.gov.cn/zwgk/zcjd/art/2023/art_39b4f1acc36745b98478e0ec3e07128d.html)
+
+[一图读懂APP备案](https://wap.miit.gov.cn/zwgk/zcjd/art/2023/art_9f3a1277fdcb42d68e1eacd37787ae04.html)
+
+<br/>
+
 UCloud备案部
 
 2023-08-29
