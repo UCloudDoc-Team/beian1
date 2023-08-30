@@ -9,10 +9,10 @@
 
 
 
-## 变更网站功能限制省份
+## 变更网站/APP功能限制省份
 
 - **江苏省**暂不支持变更主体备案类型。
-- 如需变更信息，请按照[变更备案](https://docs.ucloud.cn/beian1/guidance/guidance7)类型提交订单。
+- 如需变更信息，请按照[变更网站/APP](https://docs.ucloud.cn/beian1/guidance/guidance7)类型提交订单。
 
 
 

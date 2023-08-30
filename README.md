@@ -14,9 +14,9 @@
     * [取消接入](/beian1/guidance/guidance6)
     * [变更备案](/beian1/guidance/guidance7)
     * [变更主体](/beian1/guidance/guidance10)
-    * [变更网站](/beian1/guidance/guidance11)
+    * [变更网站/APP](/beian1/guidance/guidance11)
     * [变更接入](/beian1/guidance/guidance8)
-    * [新增接入](/beian1/guidance/guidance9)
+    * [接入备案](/beian1/guidance/guidance9)
     * [特定备案类型功能置灰说明](/beian1/guidance/guidance12)
     
 * ICP备案服务
