@@ -48,7 +48,7 @@
     * [网站备案域名核验的规则](/beian1/notice/notice9)
     * [关于规范互联网信息服务使用域名的通知](/beian1/notice/notice2)
     * [关于网站公安备案公告](/beian1/notice/notice1)
-    * [已备案域名转接入备案通知](/beian1/notice/notice5)
+    * [已备案未接入备案通知](/beian1/notice/notice5)
     
 * UCloud优刻得备案相关协议与相关法律法规
   
