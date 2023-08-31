@@ -129,7 +129,7 @@
 
 [不涉及电子商务承诺书](https://www-s.ucloud.cn/2023/08/251bc026be9d3e80a6ec1b046f5d737e_1693473703313.docx)（河南）
 
-[经营范围涉及商贸备案承诺书](https://www-s.ucloud.cn/2023/08/a873c98fb8ceef6dfda7e1cd1e572813_1693473689360.doc)（河南）
+[经营范围涉及商贸、百货备案承诺书](https://www-s.ucloud.cn/2023/08/a873c98fb8ceef6dfda7e1cd1e572813_1693473689360.doc)（河南）
 
 [不从事经营性互联网信息服务承诺书](https://static.ucloud.cn/6b968b995e4803c51a47f6f4a0adf997.doc)（江西）
 
