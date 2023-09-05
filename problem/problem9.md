@@ -135,17 +135,11 @@
 
 
 
-## 十、网站负责人授权书
+## 十、ICP负责人授权书
 
-[网站负责人非法定代表人授权书](https://static.ucloud.cn/86e054747cb343e3f143bdb7a180796e.doc)（通用）
+[ICP负责人授权书](https://www-s.ucloud.cn/2023/09/4c3c7fffdee382870ccb13b64b40b733_1693561808624.doc)（通用版本）
 
-[网站/APP负责人非法定代表人授权书](https://www-s.ucloud.cn/2023/01/6eb4e29c7f99e52094a88dc2be2665f7_1672738616093.docx)（上海2023版）
-
-
-
-## 十一、外籍法定代表人授权书
-
-[外籍法定代表人授权书](https://www-s.ucloud.cn/2023/08/c7f8e9e8022c7fb800466acc7571779d_1691376474879.doc)（通用）
+[ICP负责人授权书](https://www-s.ucloud.cn/2023/09/9145843af95354fec374d5ba445b08cf_1693561808621.docx)（上海2023版）
 
 
 
