@@ -111,7 +111,7 @@
 
 [不从事前置审批经营承诺书](https://static.ucloud.cn/8a4400eb14bc4fe3c2c4976586d3cc0d.docx)（陕西）
 
-[不从事前置审批经营承诺书](https://www-s.ucloud.cn/2023/08/e6d3a7f83c6770850725fec07057697a_1693473651166.doc)（河南）
+[不从事前置审批经营承诺书](https://www-s.ucloud.cn/2023/09/5543253052929c52813610570d8cfbeb_1693905510460.doc)（河南）
 
 [不从事前置审批经营承诺书](https://www-s.ucloud.cn/2022/05/e6762f8e5d3d59fdae5d7bcfa6f32068_1653468176730.docx)（内蒙古）
 
@@ -127,9 +127,9 @@
 
 [不涉及电子商务承诺书](https://www-s.ucloud.cn/2023/03/bca5dc3afc1a7058d06d23bf7f935183_1678759036150.docx)（湖北）
 
-[不涉及电子商务承诺书](https://www-s.ucloud.cn/2023/08/251bc026be9d3e80a6ec1b046f5d737e_1693473703313.docx)（河南）
+[不涉及电子商务承诺书](https://www-s.ucloud.cn/2023/09/9a78a207d748cfab2a91df093d32b8c9_1693905457238.docx)（河南）
 
-[经营范围涉及商贸、百货备案承诺书](https://www-s.ucloud.cn/2023/08/a873c98fb8ceef6dfda7e1cd1e572813_1693473689360.doc)（河南）
+[经营范围涉及商贸、百货备案承诺书](https://www-s.ucloud.cn/2023/09/6f54f85ef14ff218c6f98d29c7f39f58_1693905478062.doc)（河南）
 
 [不从事经营性互联网信息服务承诺书](https://static.ucloud.cn/6b968b995e4803c51a47f6f4a0adf997.doc)（江西）
 
@@ -173,7 +173,7 @@
 
 [网站备案信息真实性责任告知书模板](https://www-s.ucloud.cn/2022/03/4ffee20497c7f4803174a58854d74fdc_1647400423856.doc)
 
-[个人网站备案承诺书](https://www-s.ucloud.cn/2023/08/90d913c6d57115c5e77d5c8a6267c978_1693473719918.docx)（河南）
+[个人网站备案承诺书](https://www-s.ucloud.cn/2023/09/ecba2fe15011d38ee195423519e7461e_1693905489627.docx)（河南）
 
 <br/>
 
