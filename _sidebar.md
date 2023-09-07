@@ -8,7 +8,7 @@
     * [备案流程详细指导](/beian1/guidance/guidance1)
     * [短信核验指导](/beian1/guidance/guidance2)
     * [注销主体](/beian1/guidance/guidance4)
-    * [注销网站](/beian1/guidance/guidance5)
+    * [注销网站/APP](/beian1/guidance/guidance5)
     * [取消接入](/beian1/guidance/guidance6)
     * [变更备案](/beian1/guidance/guidance7)
     * [变更主体](/beian1/guidance/guidance10)
