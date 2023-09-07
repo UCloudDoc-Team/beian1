@@ -79,7 +79,7 @@
 
 [不涉及互联网出版类经营承诺书](https://www-s.ucloud.cn/2023/02/861146facf1ba750100e8d1edbf06817_1677211203137.docx)（重庆、浙江、天津）
 
-[不涉及互联网出版类经营承诺书](https://www-s.ucloud.cn/2023/09/55e0896ff3aa014f6a2abb9731947df3_1693991404080.docx)（四川）
+[不涉及互联网出版类经营承诺书](https://www-s.ucloud.cn/2023/09/cb605e6c785b8660e10c5f8587e0e225_1694067804216.docx)（四川）
 
 [不涉及互联网游戏类经营承诺书](https://www-s.ucloud.cn/2023/09/8f6a7eefd53b86e2ce8d7db12056a0e6_1693991480017.docx)（四川）
 
