@@ -30,9 +30,9 @@
 
 
 
-## IOS系统获取Bundle ID、平台公钥、签名MD5值的指引
+## iOS系统获取Bundle ID、平台公钥、签名MD5值的指引
 
-1、使用APP对应的IOS开发者账号登录Developer控制台，找到下图标识符(英文)，单击进入Certificates,ldentifiers&Profiles页面。
+1、使用APP对应的iOS开发者账号登录Developer控制台，找到下图标识符(英文)，单击进入Certificates,ldentifiers&Profiles页面。
 
 2、Bundle ID获取：在Certificates,ldentifiers&Profiles页面，单击ldentifiers，其中IDENTIFIER列对应的就是Bundle ID。
 
@@ -47,6 +47,8 @@
 ![](https://www-s.ucloud.cn/2023/10/58df103383e7bf3001a03d4dab43ffb3_1696669882906.png)
 
 ![](https://www-s.ucloud.cn/2023/10/5e7b4bb27ab536d2d4a2d0ad49808cbe_1696669898469.png)
+
+
 
 **公钥（公共密钥）**:如果公共密钥显示不完整，您可先单击省略号，如果省略号仍然打不开或不显示，直接复制公共密钥省略号前面显示出的数据进行填写即可。
 
