@@ -5,6 +5,7 @@
     * [备案常用名词解释](/beian1/basics/knowledge1)
     * [前置审批](/beian1/basics/knowledge2)
     * [APP备案知识](/beian1/basics/knowledge3)
+    * [APP特征信息填写指导](/beian1/basics/knowledge4)
 * 备案流程指导
     * [备案流程详细指导](/beian1/guidance/guidance1)
     * [短信核验指导](/beian1/guidance/guidance2)
