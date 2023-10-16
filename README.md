@@ -5,12 +5,14 @@
     * [为什么要做备案](/beian1/basics/knowledge)
     * [备案常用名词解释](/beian1/basics/knowledge1)
     * [前置审批](/beian1/basics/knowledge2)
+    * [APP备案知识](/beian1/basics/knowledge3)
+    * [APP特征信息填写指导](/beian1/basics/knowledge4)
     
 * 备案流程指导
     * [备案流程详细指导](/beian1/guidance/guidance1)
     * [短信核验指导](/beian1/guidance/guidance2)
     * [注销主体](/beian1/guidance/guidance4)
-    * [注销网站](/beian1/guidance/guidance5)
+    * [注销网站/APP](/beian1/guidance/guidance5)
     * [取消接入](/beian1/guidance/guidance6)
     * [变更备案](/beian1/guidance/guidance7)
     * [变更主体](/beian1/guidance/guidance10)
