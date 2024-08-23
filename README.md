@@ -36,6 +36,7 @@
     * [账号间已备案完成数据迁移流程](/beian1/problem/problem1)
     
 * 重要通知
+    * [关于开通西藏地区网站/APP备案业务通知](/beian1/notice/notice26)
     * [4月1日起【未备案APP】将下架关停](/beian1/notice/notice25)
     * [关于开展【APP备案】工作通知](/beian1/notice/notice24)
     * [关于UCloud备案管理系统升级通知](/beian1/notice/notice23)
@@ -109,5 +110,4 @@
         * [西藏管局规则](/beian1/rule/rule7/xizang)
         * [贵州管局规则](/beian1/rule/rule7/guizhou)
         * [重庆管局规则](/beian1/rule/rule7/chongqing)
-
 
