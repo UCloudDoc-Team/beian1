@@ -34,6 +34,7 @@
     * [备案限制说明](/beian1/problem/problem8)
     * [情况说明承诺书模板](/beian1/problem/problem9)
     * [账号间已备案完成数据迁移流程](/beian1/problem/problem1)
+    * [关于53端口默认关闭的说明](/beian1/problem/problem10)
     
 * 重要通知
     * [关于开通西藏地区网站/APP备案业务通知](/beian1/notice/notice26)
