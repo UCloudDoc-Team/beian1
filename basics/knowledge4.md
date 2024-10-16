@@ -12,7 +12,7 @@
 
 
 
-## 安卓系统获取包名、平台公钥、签名MD5值的指引
+## 安卓应用获取App特征信息指导
 
 公钥和MD5值可以通过安卓开发工具、keytool、Jadx-GUI等多种工具获取，本文以使用JadxGUI工具获取为例。
 
@@ -30,7 +30,7 @@
 
 
 
-## iOS系统获取Bundle ID、平台公钥、签名MD5值的指引
+## iOS应用获取App特征信息指导
 
 1、使用APP对应的iOS开发者账号登录Developer控制台，找到下图标识符(英文)，单击进入Certificates,ldentifiers&Profiles页面。
 
