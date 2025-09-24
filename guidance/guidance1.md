@@ -6,6 +6,10 @@
 
 请先购买UCloud中国内地服务器及弹性IP（EIP），使用购买服务器的账号[登录UCloud备案系统](https://console.ucloud.cn/icp/)即可。  
 
+
+
+
+
 ## 二、 备案类型验证
 
 1. 填写验证信息。
