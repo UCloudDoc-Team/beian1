@@ -20,7 +20,7 @@
 江苏省 js.beian.miit.gov.cn  
 浙江省 zj.beian.miit.gov.cn  
 安徽省 ah.beian.miit.gov.cn  
-福建省 fj.beian.miit.gov.cn  
+华南（泉州）省 fj.beian.miit.gov.cn  
 江西省 jx.beian.miit.gov.cn  
 山东省 sd.beian.miit.gov.cn  
 河南省 ha.beian.miit.gov.cn  
