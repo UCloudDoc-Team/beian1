@@ -89,7 +89,7 @@
         * [山东管局规则](/beian1/rule/rule3/shandong)
         * [江苏管局规则](/beian1/rule/rule3/jiangsu)
         * [浙江管局规则](/beian1/rule/rule3/zhejiang)
-        * [福建管局规则](/beian1/rule/rule3/fujian)
+        * [华南（泉州）管局规则](/beian1/rule/rule3/fujian)
     * 华南各省管局规则
         * [广东管局规则](/beian1/rule/rule4/guangdong)
         * [广西管局规则](/beian1/rule/rule4/guangxi)
