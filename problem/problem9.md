@@ -187,7 +187,7 @@
 
 ## 十四、备案者承诺书模版
 
-[备案者承诺书模版](https://static.ucloud.cn/04f968821a7720a380c33fcaf63ff336.docx)（广东）
+[备案者承诺书模版](https://cdn.udelivrs.com/2026/01/395c2e8d2622c51e9d0c6901ca0b6906_1768810548038.docx)（广东）
 
 
 
