@@ -9,6 +9,7 @@
     * [APP特征信息填写指导](/beian1/basics/knowledge4)
 * 备案流程指导
     * [备案流程详细指导](/beian1/guidance/guidance1)
+    * [公安联网备案数据码获取与使用指引](/beian1/guidance/guidance13)
     * [短信核验指导](/beian1/guidance/guidance2)
     * [注销主体](/beian1/guidance/guidance4)
     * [注销网站/APP](/beian1/guidance/guidance5)
