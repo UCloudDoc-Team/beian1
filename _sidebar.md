@@ -33,7 +33,7 @@
     * [账号间已备案完成数据迁移流程](/beian1/problem/problem1)
     * [关于53端口默认关闭的说明](/beian1/problem/problem10)
 * 重要通知
-    * [关于关于境内云主机备案数量规则调整](/beian1/notice/notice28)
+    * [关于境内云主机备案数量规则调整](/beian1/notice/notice28)
     * [关于公安联网备案平台流程升级的公告](/beian1/notice/notice27)
     * [关于开通西藏地区网站/APP备案业务通知](/beian1/notice/notice26)
     * [4月1日起【未备案APP】将下架关停](/beian1/notice/notice25)
